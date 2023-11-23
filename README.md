@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 끊임 없이 배움을 추구하는 프론트 엔드 개발자 남수진입니다!
 
 <!--
 **sujinishappy/sujinishappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
